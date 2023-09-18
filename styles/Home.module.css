@@ -40,6 +40,7 @@
   }
   
   .grid {
+    margin: 15px;
     display: flex;
     flex-wrap: wrap; /* Permite que las imágenes se envuelvan a la siguiente línea */
     padding-top: 50px;

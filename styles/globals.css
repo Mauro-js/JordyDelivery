@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+.puntero {
+  transition: transform 0.2s ease-in-out;
+}
+
+.puntero:hover {
+  transform: scale(1.05); /* Ajusta el valor según tus preferencias */
+}
+
 ::-webkit-scrollbar {
   width: 10px;
 }
