@@ -4,6 +4,7 @@ import styles from '@/styles/Home.module.css'
 import {
     Image,
 } from '@chakra-ui/react'
+import FilterProducts from '@/components/FiltersProducts'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -14,7 +15,7 @@ const generateList = () => {
         list.push(
             <a
                 key={i}
-                className="transition duration-200 bg-gray-200 border duration-400 flex-none flex-shrink-0 w-[calc(17% - 10px)] my-5 mx-2 puntero"
+                className="rounded border-black	border-double  dark:border-inherit transition duration-200 bg-gray-200 border duration-400 flex-none flex-shrink-0 w-[calc(17% - 10px)] my-5 mx-2 puntero"
                 target="_blank"
                 rel="noopener noreferrer"
             >
@@ -43,9 +44,11 @@ export default function Home({ articles }) {
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <main className="flex flex-col justify-center items-start p-6 min-h-screen">
-                
-                <div className="m-15 flex flex-wrap pt-50 justify-center max-w-1000 w-full mx-auto">
-                    {list}
+                <div className="pt-12">
+                    <FilterProducts />
+                    <div className="m-15 flex flex-wrap pt-50 justify-center max-w-1000 w-full mx-auto">
+                        {list}
+                    </div>
                 </div>
             </main>
         </>
