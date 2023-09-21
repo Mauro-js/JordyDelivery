@@ -1,0 +1,338 @@
+[
+    {
+        "Codigo": 2022900,
+        "Nombre": "1 Membrillo 4k + 1 Batata o Zapallo 4k",
+        "Moneda": "USD",
+        "Prc Venta": 583.00
+    },
+    {
+        "Codigo": 2022887,
+        "Nombre": "10k Harina + 12 Grasas 400gr",
+        "Moneda": "USD",
+        "Prc Venta": 899.00
+    },
+    {
+        "Codigo": 2022274,
+        "Nombre": "Aceite \"Condesa\" 900cc",
+        "Moneda": "USD",
+        "Prc Venta": 93.00
+    },
+    {
+        "Codigo": 2022323,
+        "Nombre": "Aceite \"Condesa\" 900cc x 20un",
+        "Moneda": "USD",
+        "Prc Venta": 1580.00
+    },
+    {
+        "Codigo": 5126,
+        "Nombre": "Aceite \"Rio de la Plata\" Oliva 500cc",
+        "Moneda": "USD",
+        "Prc Venta": 246.00
+    },
+    {
+        "Codigo": 2022869,
+        "Nombre": "Aceite \"Salad\" 900cc x 10 Cajas",
+        "Moneda": "USD",
+        "Prc Venta": 10760.00
+    },
+    {
+        "Codigo": 4267,
+        "Nombre": "Aceite de girasol \"Salamanca\" 900cc",
+        "Moneda": "USD",
+        "Prc Venta": 80.00
+    },
+    {
+        "Codigo": 4268,
+        "Nombre": "Aceite de girasol \"Salamanca\" 900cc x 20un",
+        "Moneda": "USD",
+        "Prc Venta": 1500.00
+    },
+    {
+        "Codigo": 2022440,
+        "Nombre": "Aceite de Oliva Extra Virgen Gibur 500 ml",
+        "Moneda": "USD",
+        "Prc Venta": 0.00
+    },
+    {
+        "Codigo": 130,
+        "Nombre": "Aceite de soja \"Salad\" x 900cc. un",
+        "Moneda": "USD",
+        "Prc Venta": 57.00
+    },
+    {
+        "Codigo": 1727,
+        "Nombre": "Aceite de soja \"Salad\" x 900cc. x 20 un",
+        "Moneda": "USD",
+        "Prc Venta": 1130.00
+    },
+    {
+        "Codigo": 2022559,
+        "Nombre": "Aceite Fritador \"BluePatna\" 10lt",
+        "Moneda": "USD",
+        "Prc Venta": 1198.00
+    },
+    {
+        "Codigo": 2022510,
+        "Nombre": "Aceite fritador Sarandi 5lt",
+        "Moneda": "USD",
+        "Prc Venta": 665.00
+    },
+    {
+        "Codigo": 2023010,
+        "Nombre": "Aceite girasol \"Cañuelas\" 900cc",
+        "Moneda": "USD",
+        "Prc Venta": 86.00
+    },
+    {
+        "Codigo": 2023011,
+        "Nombre": "Aceite girasol \"Cañuelas\" 900cc x 12un",
+        "Moneda": "USD",
+        "Prc Venta": 1016.00
+    },
+    {
+        "Codigo": 587,
+        "Nombre": "Aceituna \"Gibur\" sachet 100gr c/c",
+        "Moneda": "USD",
+        "Prc Venta": 39.00
+    },
+    {
+        "Codigo": 588,
+        "Nombre": "Aceituna \"Gibur\" sachet 100gr c/c x 24un",
+        "Moneda": "USD",
+        "Prc Venta": 900.00
+    },
+    {
+        "Codigo": 589,
+        "Nombre": "Aceituna \"Gibur\" sachet 100gr s/c",
+        "Moneda": "USD",
+        "Prc Venta": 45.00
+    },
+    {
+        "Codigo": 590,
+        "Nombre": "Aceituna \"Gibur\" sachet 100gr s/c x 24un",
+        "Moneda": "USD",
+        "Prc Venta": 1055.00
+    },
+    {
+        "Codigo": 134,
+        "Nombre": "Aceituna \"Patna\" verde 400gr.",
+        "Moneda": "USD",
+        "Prc Venta": 100.00
+    },
+    {
+        "Codigo": 2022324,
+        "Nombre": "Aceituna \"Patna\" verde 400gr. x 12un",
+        "Moneda": "USD",
+        "Prc Venta": 1060.00
+    },
+    {
+        "Codigo": 2022325,
+        "Nombre": "Aceituna \"Patna\" verde 800gr. x 12un",
+        "Moneda": "USD",
+        "Prc Venta": 1530.00
+    },
+    {
+        "Codigo": 5880,
+        "Nombre": "Aceituna \"Salad\" verde 800gr.",
+        "Moneda": "USD",
+        "Prc Venta": 95.00
+    },
+    {
+        "Codigo": 2022793,
+        "Nombre": "Aceituna \"Salad\" verde 800gr. x 12un",
+        "Moneda": "USD",
+        "Prc Venta": 1035.00
+    },
+    {
+        "Codigo": 2022817,
+        "Nombre": "Aceituna \"Salad\" verde 800gr. x 12un - OFERTA",
+        "Moneda": "USD",
+        "Prc Venta": 910.00
+    },
+    {
+        "Codigo": 5879,
+        "Nombre": "Aceituna \"Salad\" verde 400gr.",
+        "Moneda": "USD",
+        "Prc Venta": 50.00
+    },
+    {
+        "Codigo": 2022562,
+        "Nombre": "Aceituna \"Salad\" verde 400gr. x 12un",
+        "Moneda": "USD",
+        "Prc Venta": 515.00
+    },
+    {
+        "Codigo": 2022749,
+        "Nombre": "Aceituna \"Salad\" verde 400gr. x 12un - OFERTA",
+        "Moneda": "USD",
+        "Prc Venta": 475.00
+    },
+    {
+        "Codigo": 5890,
+        "Nombre": "Aceituna \"Salad\" verde 100gr. c/c",
+        "Moneda": "USD",
+        "Prc Venta": 27.00
+    },
+    {
+        "Codigo": 2022563,
+        "Nombre": "Aceituna \"Salad\" verde 100gr. c/c x 24un",
+        "Moneda": "USD",
+        "Prc Venta": 600.00
+    },
+    {
+        "Codigo": 5891,
+        "Nombre": "Aceituna \"Salad\" verde 100gr. s/c",
+        "Moneda": "USD",
+        "Prc Venta": 30.00
+    },
+    {
+        "Codigo": 2022564,
+        "Nombre": "Aceituna \"Salad\" verde 100gr. s/c x 24un",
+        "Moneda": "USD",
+        "Prc Venta": 665.00
+    },
+    {
+        "Codigo": 2022533,
+        "Nombre": "Aceituna \"Salad\" verde 500gr.",
+        "Moneda": "USD",
+        "Prc Venta": 79.00
+    },
+    {
+        "Codigo": 2022534,
+        "Nombre": "Aceituna \"Salad\" verde 500gr. x 12un",
+        "Moneda": "USD",
+        "Prc Venta": 760.00
+    },
+    {
+        "Codigo": 2022794,
+        "Nombre": "Aceituna \"Salad\" verde 500gr. x 12un - OFERTA",
+        "Moneda": "USD",
+        "Prc Venta": 680.00
+    },
+    {
+        "Codigo": 5123,
+        "Nombre": "Aceituna \"Salad\" verde 2500gr.",
+        "Moneda": "USD",
+        "Prc Venta": 370.00
+    },
+    {
+        "Codigo": 5124,
+        "Nombre": "Aceituna \"Salad\" verde 2500gr. x 4un",
+        "Moneda": "USD",
+        "Prc Venta": 1400.00
+    },
+    {
+        "Codigo": 441,
+        "Nombre": "Aceituna \"Salad\" verde 250gr.",
+        "Moneda": "USD",
+        "Prc Venta": 28.00
+    },
+    {
+        "Codigo": 2002700,
+        "Nombre": "Aceituna \"Salad\" verde 250gr. x 12un",
+        "Moneda": "USD",
+        "Prc Venta": 280.00
+    },
+    {
+        "Codigo": 425,
+        "Nombre": "Aceituna \"Salad\" verde 250gr. x 12un - OFERTA",
+        "Moneda": "USD",
+        "Prc Venta": 230.00
+    },
+    {
+        "Codigo": 5876,
+        "Nombre": "Aceituna \"Salad\" verde 500gr.",
+        "Moneda": "USD",
+        "Prc Venta": 50.00
+    },
+    {
+        "Codigo": 2022571,
+        "Nombre": "Aceituna \"Salad\" verde 500gr. x 12un",
+        "Moneda": "USD",
+        "Prc Venta": 550.00
+    },
+    {
+        "Codigo": 2022572,
+        "Nombre": "Aceituna \"Salad\" verde 500gr. x 12un - OFERTA",
+        "Moneda": "USD",
+        "Prc Venta": 510.00
+    },
+    {
+        "Codigo": 1275,
+        "Nombre": "Aceituna \"Salad\" verde 800gr.",
+        "Moneda": "USD",
+        "Prc Venta": 70.00
+    },
+    {
+        "Codigo": 2022574,
+        "Nombre": "Aceituna \"Salad\" verde 800gr. x 12un",
+        "Moneda": "USD",
+        "Prc Venta": 730.00
+    },
+    {
+        "Codigo": 2022575,
+        "Nombre": "Aceituna \"Salad\" verde 800gr. x 12un - OFERTA",
+        "Moneda": "USD",
+        "Prc Venta": 660.00
+    },
+    {
+        "Codigo": 5874,
+        "Nombre": "Aceituna \"Salad\" verde 100gr. c/c",
+        "Moneda": "USD",
+        "Prc Venta": 21.00
+    },
+    {
+        "Codigo": 2022558,
+        "Nombre": "Aceituna \"Salad\" verde 100gr. c/c x 24un",
+        "Moneda": "USD",
+        "Prc Venta": 520.00
+    },
+    {
+        "Codigo": 5875,
+        "Nombre": "Aceituna \"Salad\" verde 100gr. s/c",
+        "Moneda": "USD",
+        "Prc Venta": 24.00
+    },
+    {
+        "Codigo": 2022559,
+        "Nombre": "Aceituna \"Salad\" verde 100gr. s/c x 24un",
+        "Moneda": "USD",
+        "Prc Venta": 570.00
+    },
+    {
+        "Codigo": 2022532,
+        "Nombre": "Aceituna \"Salad\" verde 500gr.",
+        "Moneda": "USD",
+        "Prc Venta": 64.00
+    },
+    {
+        "Codigo": 2022535,
+        "Nombre": "Aceituna \"Salad\" verde 500gr. x 12un",
+        "Moneda": "USD",
+        "Prc Venta": 650.00
+    },
+    {
+        "Codigo": 2022795,
+        "Nombre": "Aceituna \"Salad\" verde 500gr. x 12un - OFERTA",
+        "Moneda": "USD",
+        "Prc Venta": 600.00
+    },
+    {
+        "Codigo": 484,
+        "Nombre": "Aceituna \"Salad\" verde 2500gr.",
+        "Moneda": "USD",
+        "Prc Venta": 330.00
+    },
+    {
+        "Codigo": 2022798,
+        "Nombre": "Aceituna \"Salad\" verde 2500gr. x 4un",
+        "Moneda": "USD",
+        "Prc Venta": 1220.00
+    },
+    {
+        "Codigo": 2022799,
+        "Nombre": "Aceituna \"Salad\" verde 2500gr. x 4un - OFERTA",
+        "Moneda": "USD",
+        "Prc Venta": 1100.00
+    }
+]

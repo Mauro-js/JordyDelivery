@@ -8,29 +8,24 @@ import FilterProducts from '@/components/FiltersProducts'
 
 const inter = Inter({ subsets: ['latin'] })
 
-const generateList = () => {
+const generateList = (articles) => {
     const list = [];
 
-    for (let i = 0; i < 30; i++) {
-        list.push(
-            <a
-                key={i}
-                className="rounded border-black	border-double  dark:border-inherit transition duration-200 bg-gray-200 border duration-400 flex-none flex-shrink-0 w-[calc(17% - 10px)] my-5 mx-2 puntero"
-                target="_blank"
-                rel="noopener noreferrer"
-            >
-                <Image
-                    priority="true"
-                    className={styles.logo}
-                    src={`/camisa1.jpeg`}
-                    alt="Camisa"
-                />
-
-            </a>
-        );
-    }
-
-    return list;
+    return articles.map(article => {
+        return <a
+            key={article.Codigo}
+            className="rounded border-black	border-double  dark:border-inherit transition duration-200 bg-gray-200 border duration-400 flex-none flex-shrink-0 w-[calc(17% - 10px)] my-5 mx-2 puntero text-center text-black"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            <div className='text-sm m-5'>
+            {article.Nombre}
+            </div>
+            <div className='text-sm m-5'>
+            {"Precio: " + article.Prc_Venta + " " + article.Moneda}
+            </div>
+        </a>
+    })
 };
 
 export default function Home({ articles }) {
@@ -55,13 +50,15 @@ export default function Home({ articles }) {
     )
 }
 
-export const getServerSideProps = async (ctx) => {
-    //const res = await fetch('http://localhost:3000/api/article');
-    //const articles = await res.json({});
+const arminioJson = require("../public/arminio.json");
+const bazarJson = require("../public/bazar");
+const comestiblesJson = require("../public/comestibles");
+
+export const getServerSideProps = async () => {
 
     return {
         props: {
-            articles: "si"
+            articles: [...arminioJson, ...bazarJson, ...comestiblesJson]
         }
     }
 }

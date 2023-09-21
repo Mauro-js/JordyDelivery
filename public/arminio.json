@@ -1,0 +1,213 @@
+[
+    {
+      "Codigo": 4235,
+      "Nombre": "Yerba \"Armiño\" 100gr Display Surtida 24un",
+      "Moneda": "USD",
+      "Prc_Venta": 493.50
+    },
+    {
+      "Codigo": 869,
+      "Nombre": "Yerba \"Armiño\" 1kg x 20",
+      "Moneda": "USD",
+      "Prc_Venta": 2893.28
+    },
+    {
+      "Codigo": 2866,
+      "Nombre": "Yerba \"Armino\" clasica 100gr Display x 24un",
+      "Moneda": "USD",
+      "Prc_Venta": 493.50
+    },
+    {
+      "Codigo": 4197,
+      "Nombre": "Yerba \"Armiño\" Clasica 20kg",
+      "Moneda": "USD",
+      "Prc_Venta": 1720.00
+    },
+    {
+      "Codigo": 856,
+      "Nombre": "Yerba \"Armiño\" clasica x 1 kg",
+      "Moneda": "USD",
+      "Prc_Venta": 151.00
+    },
+    {
+      "Codigo": 857,
+      "Nombre": "Yerba \"Armiño\" clasica x 1kg x 20un",
+      "Moneda": "USD",
+      "Prc_Venta": 2921.10
+    },
+    {
+      "Codigo": 1773,
+      "Nombre": "Yerba \"Armiño\" clasica x 250gr un",
+      "Moneda": "USD",
+      "Prc_Venta": 46.11
+    },
+    {
+      "Codigo": 1774,
+      "Nombre": "Yerba \"Armiño\" clasica x 250gr x 40un",
+      "Moneda": "USD",
+      "Prc_Venta": 1679.91
+    },
+    {
+      "Codigo": 873,
+      "Nombre": "Yerba \"Armiño\" clasica x 3kg.",
+      "Moneda": "USD",
+      "Prc_Venta": 466.25
+    },
+    {
+      "Codigo": 854,
+      "Nombre": "Yerba \"Armiño\" clasica x 500gr un",
+      "Moneda": "USD",
+      "Prc_Venta": 87.08
+    },
+    {
+      "Codigo": 855,
+      "Nombre": "Yerba \"Armiño\" clasica x 500gr x 20un",
+      "Moneda": "USD",
+      "Prc_Venta": 1670.99
+    },
+    {
+      "Codigo": 2865,
+      "Nombre": "Yerba \"Armino\" compuesta 100gr Display x 24un",
+      "Moneda": "USD",
+      "Prc_Venta": 525.20
+    },
+    {
+      "Codigo": 4196,
+      "Nombre": "Yerba \"Armiño\" Compuesta 20kg",
+      "Moneda": "USD",
+      "Prc_Venta": 1980.00
+    },
+    {
+      "Codigo": 868,
+      "Nombre": "Yerba \"Armiño\" compuesta 250gr x 40un",
+      "Moneda": "USD",
+      "Prc_Venta": 1803.57
+    },
+    {
+      "Codigo": 858,
+      "Nombre": "Yerba \"Armino\" compuesta x 1kg un",
+      "Moneda": "USD",
+      "Prc_Venta": 163.28
+    },
+    {
+      "Codigo": 859,
+      "Nombre": "Yerba \"Armino\" compuesta x 1kg x 20un",
+      "Moneda": "USD",
+      "Prc_Venta": 3149.12
+    },
+    {
+      "Codigo": 867,
+      "Nombre": "Yerba \"Armiño\" compuesta x 250gr",
+      "Moneda": "USD",
+      "Prc_Venta": 48.22
+    },
+    {
+      "Codigo": 866,
+      "Nombre": "Yerba \"Armiño\" compuesta x 3kg.",
+      "Moneda": "USD",
+      "Prc_Venta": 505.83
+    },
+    {
+      "Codigo": 860,
+      "Nombre": "Yerba \"Armiño\" compuesta x 500gr un",
+      "Moneda": "USD",
+      "Prc_Venta": 90.23
+    },
+    {
+      "Codigo": 861,
+      "Nombre": "Yerba \"Armiño\" compuesta x 500gr x 20un",
+      "Moneda": "USD",
+      "Prc_Venta": 1762.88
+    },
+    {
+      "Codigo": 2867,
+      "Nombre": "Yerba \"Armino\" suave 100gr Display x 24un",
+      "Moneda": "USD",
+      "Prc_Venta": 493.50
+    },
+    {
+      "Codigo": 2022056,
+      "Nombre": "Yerba \"Armiño\" suave 250gr x 40un",
+      "Moneda": "USD",
+      "Prc_Venta": 1679.91
+    },
+    {
+      "Codigo": 862,
+      "Nombre": "Yerba \"Armiño\" suave x 1kg un",
+      "Moneda": "USD",
+      "Prc_Venta": 151.00
+    },
+    {
+      "Codigo": 863,
+      "Nombre": "Yerba \"Armiño\" suave x 1kg x 20un",
+      "Moneda": "USD",
+      "Prc_Venta": 2893.28
+    },
+    {
+      "Codigo": 2439,
+      "Nombre": "Yerba \"Armiño\" suave x 250gr",
+      "Moneda": "USD",
+      "Prc_Venta": 46.11
+    },
+    {
+      "Codigo": 872,
+      "Nombre": "Yerba \"Armiño\" suave x 3kg",
+      "Moneda": "USD",
+      "Prc_Venta": 466.25
+    },
+    {
+      "Codigo": 864,
+      "Nombre": "Yerba \"Armiño\" suave x 500gr un",
+      "Moneda": "USD",
+      "Prc_Venta": 87.08
+    },
+    {
+      "Codigo": 865,
+      "Nombre": "Yerba \"Armiño\" suave x 500gr x 20un",
+      "Moneda": "USD",
+      "Prc_Venta": 1670.99
+    },
+    {
+      "Codigo": 3453,
+      "Nombre": "Yerba \"Armiño\" suelta Clasica 3kg",
+      "Moneda": "USD",
+      "Prc_Venta": 391.14
+    },
+    {
+      "Codigo": 3455,
+      "Nombre": "Yerba \"Armiño\" suelta Compuesta 3kg",
+      "Moneda": "USD",
+      "Prc_Venta": 423.74
+    },
+    {
+      "Codigo": 3454,
+      "Nombre": "Yerba \"Armiño\" suelta Suave 3kg",
+      "Moneda": "USD",
+      "Prc_Venta": 391.14
+    },
+    {
+      "Codigo": 2009,
+      "Nombre": "Yerba \"Armiño\" suelta x 3kg",
+      "Moneda": "USD",
+      "Prc_Venta": 391.14
+    },
+    {
+      "Codigo": 871,
+      "Nombre": "Yerba \"Armiño\" x 500 x 20",
+      "Moneda": "USD",
+      "Prc_Venta": 1670.11
+    },
+    {
+      "Codigo": 2022279,
+      "Nombre": "Yerba clásica suelta 5 k",
+      "Moneda": "USD",
+      "Prc_Venta": 430.00
+    },
+    {
+      "Codigo": 2022278,
+      "Nombre": "Yerba compuetsa suelta 5 k",
+      "Moneda": "USD",
+      "Prc_Venta": 495.00
+    }
+  ]
+  
